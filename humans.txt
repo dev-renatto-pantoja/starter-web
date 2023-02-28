@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Renatto Pantona  dev.renatto.pantoja@gmail.com  @renattoPantoja
 
 # THANKS
 
